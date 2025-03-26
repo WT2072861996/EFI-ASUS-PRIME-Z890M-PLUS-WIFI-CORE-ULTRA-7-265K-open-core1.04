@@ -28,4 +28,4 @@
 ## 安装系统版本
 ![截屏2025-03-27 00 34 07](https://github.com/user-attachments/assets/45fb1f6c-f2ec-432b-8bb3-d17066b72eff)
 
-- [技术支持](https://m.tb.cn/h.6dkQtty?tk=2prkeuAfYBN)
+- [技术支持](https://m.tb.cn/h.6dU5Hmb?tk=x8nmeuAg3Qw)
