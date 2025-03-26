@@ -20,3 +20,10 @@
 - Type-c
 - 睡眠
 - CPU睿频
+
+## Geekbench6跑分
+- Single-Core Score--2960
+- Multi-Core Score---20386
+
+## 安装系统版本
+![截屏2025-03-27 00 34 07](https://github.com/user-attachments/assets/45fb1f6c-f2ec-432b-8bb3-d17066b72eff)
