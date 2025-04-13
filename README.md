@@ -19,13 +19,13 @@ RST|关闭
 ## 驱动情况
 | | |
 -|:-
-声卡|Yes
-网卡|Yes
-显卡|Yes
-USB|Yes
-Type-c|Yes
-睡眠|Yse
-CPU睿频|Yes
+声卡|✅
+网卡|✅
+显卡|✅
+USB|✅
+Type-c|✅
+睡眠|✅
+CPU睿频|✅
 
 ## Geekbench6跑分
 | | |
