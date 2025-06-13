@@ -7,9 +7,6 @@
 网卡|瑞昱Realtek2.5G
 声卡|瑞昱ALC897
 
-<p align="center">
-<img src="https://github.com/WT2072861996/EFI-ASUS-PRIME-Z890M-PLUS-WIFI-CORE-ULTRA-7-265K-open-core1.04/blob/0b62493f3e61b3d9291618d72353211c9addb068/%E6%88%AA%E5%B1%8F2025-04-12%2001.28.24.png"/>
-</p>
 
 ## BIOS设置
 | | |
